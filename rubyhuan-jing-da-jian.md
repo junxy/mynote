@@ -1,4 +1,4 @@
-安装 ruby 前首先安装 rbenv，使用 home brew 安装 rbenv
+安装 ruby 前首先安装 rbenv，使用 [Homebrew](https://brew.sh/) 安装 rbenv
 
 ```
 $ brew update 
@@ -8,7 +8,6 @@ $ brew install rbenv
 $ rbenv install -l
 # install a Ruby version:
 $ rbenv install 2.3.4
-
 ```
 
 
