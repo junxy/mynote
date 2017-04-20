@@ -8,9 +8,7 @@
   * [Ruby](ruby.md)
     * [ruby环境搭建 for macos](ruby-install-for-macos.md)
 * [DevOps](devops.md)
-  * Jenkins
-  * Docker
-  * Octopus
-
-
+  * [Jenkins](devops/jenkins.md)
+  * [Docker](devops/docker.md)
+  * [Octopus](devops/octopus.md)
 
