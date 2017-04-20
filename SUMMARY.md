@@ -9,7 +9,7 @@
     * [ruby环境搭建 for macos](back-end/ruby/ruby-install-for-macos.md)
 * [DevOps](devops.md)
   * [CICD](devops/cicd.md)
-    * [Jenkins](devops/jenkins.md)
-    * [Octopus](devops/octopus.md)
+    * [Jenkins](devops/cicd/jenkins.md)
+    * [Octopus](devops/cicd/octopus.md)
   * [Docker](devops/docker.md)
 
